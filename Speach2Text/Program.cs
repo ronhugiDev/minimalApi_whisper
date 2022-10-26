@@ -3,8 +3,8 @@ using Speach2Text.Services;
 using Speach2Text.Validation;
 using FastEndpoints;
 using FastEndpoints.Swagger;
-using Serilog;
 using Speach2Text.Providers;
+using Serilog;
 
 var builder = WebApplication.CreateBuilder(args);
 
